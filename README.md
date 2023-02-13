@@ -1,5 +1,5 @@
 # InstaCat
-Бекэнд(серверная часть cоциального медиа приложения ), созданный на стеке: Java 1.8 + Spring Boot + Maven + MySQl80. Для запуска данного кода необходимо:
+Бекэнд(серверная часть cоциального медиа приложения), созданный на стеке: Java 1.8 + Spring Boot + Maven + MySQl80. Для запуска данного кода необходимо:
 
 1. Установите программу Intelij Idea Ultimate от компании JetBrains (чтобы скачать эту программу быстро по ссылке: https://www.jetbrains.com/idea ) (я создал этот код в Intelij Idea Ultimate 2021.3.1).
 2. После установки Intelij Idea Ultimate создайте свой аккаунт на Jetbrains: https://account.jetbrains.com .
